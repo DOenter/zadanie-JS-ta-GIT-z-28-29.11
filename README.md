@@ -15,11 +15,11 @@ Background of all
 test of js function like in home work of MD 
 mouseup, mousedown, mouse...mouse...
 
-# rwd
+# style.css
 CSS mix of what i knew and used for that type of project. Not perfect, for sure)
 
-# style.css
-connector
+# rwd
+connector of style and media
 
 # snowballs
 should be cool with parallax. But dont know how to do it. :(
